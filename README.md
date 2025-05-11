@@ -1,7 +1,7 @@
 
 <div id="header" align="center" >
 
-<img src="https://media.tenor.com/_1NYmn8RuWAAAAAj/goku-fortnite-goku.gif" width="200"/>
+<img src="https://media.tenor.com/_1NYmn8RuWAAAAAj/goku-fortnite-goku.gif" width="300"/>
 </div>
 Selamat datang di profil GitHub saya! 👋  
 Saya seorang pengembang yang suka belajar hal-hal baru, ngoprek web, dan membangun proyek-proyek menarik.
