@@ -1,7 +1,6 @@
-# 🐊 Hai, saya Ahin! 
+# 🐊 Hai, saya AlizarAlam! 
 
-![Buaya Dadah](https://i.pinimg.com/originals/29/54/50/2954503e67d15f5b6b1f0904b9b6d786.gif)
-
+(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms2NWYxbGgxMmxzbXBjanp0eWx0ZTFjYzM4djNldnIweWxoaWM1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kzwzTIbi7sBm8/giphy.gif)
 Selamat datang di profil GitHub saya! 👋  
 Saya seorang pengembang yang suka belajar hal-hal baru, ngoprek web, dan membangun proyek-proyek menarik.
 
