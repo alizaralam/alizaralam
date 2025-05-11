@@ -1,16 +1,22 @@
-## Hi there 👋
+# 🐊 Hai, saya Ahin! 
 
-<!--
-**alizaralam/alizaralam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Buaya Dadah](https://i.pinimg.com/originals/29/54/50/2954503e67d15f5b6b1f0904b9b6d786.gif)
 
-Here are some ideas to get you started:
+Selamat datang di profil GitHub saya! 👋  
+Saya seorang pengembang yang suka belajar hal-hal baru, ngoprek web, dan membangun proyek-proyek menarik.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Teknologi yang saya kuasai:
+- PHP & MySQL
+- HTML, CSS, JavaScript
+- Laravel, CodeIgniter
+- Git & GitHub
+
+## 📫 Hubungi saya:
+- ✉️ Email: [email@example.com](mailto:email@example.com)
+- 🌐 Website: [https://yourwebsite.com](https://yourwebsite.com)
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+
+## 📈 Statistik GitHub
+![Ahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+Terima kasih sudah mampir! 👋  
