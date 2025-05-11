@@ -1,6 +1,6 @@
 # 🐊 Hai, saya AlizarAlam! 
 
-(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms2NWYxbGgxMmxzbXBjanp0eWx0ZTFjYzM4djNldnIweWxoaWM1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kzwzTIbi7sBm8/giphy.gif)
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms2NWYxbGgxMmxzbXBjanp0eWx0ZTFjYzM4djNldnIweWxoaWM1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kzwzTIbi7sBm8/giphy.gif" width="1500"/>
 Selamat datang di profil GitHub saya! 👋  
 Saya seorang pengembang yang suka belajar hal-hal baru, ngoprek web, dan membangun proyek-proyek menarik.
 
