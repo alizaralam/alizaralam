@@ -17,7 +17,7 @@ Saya seorang pengembang yang suka belajar hal-hal baru, ngoprek web, dan membang
 
 ## 📫 Hubungi saya:
 - ✉️ Email: [alizaralamdev@gmail.com](mailto:email@example.com)
-- 🌐 Website: [https://yourwebsite.com](https://yourwebsite.com)
+- 🌐 Website: [https://alizar.temanhorizon.com](https://yourwebsite.com)
 - 💼 LinkedIn: [www.linkedin.com/in/
 alizar-alam-67ab021b8
 ](https://linkedin.com/in/yourname)
