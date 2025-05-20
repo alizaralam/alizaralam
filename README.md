@@ -1,7 +1,10 @@
 
 <div id="header" align="center" >
 
+<img src="https://www.gambaranimasi.org/data/media/210/animasi-bergerak-buaya-0019.gif" width="200"/>
 <img src="https://media.tenor.com/_1NYmn8RuWAAAAAj/goku-fortnite-goku.gif" width="200"/>
+<img src="https://www.gambaranimasi.org/data/media/210/animasi-bergerak-buaya-0007.gif" width="200"/>
+
 </div>
 Selamat datang di profil GitHub saya! 👋  
 Saya seorang pengembang yang suka belajar hal-hal baru, ngoprek web, dan membangun proyek-proyek menarik.
